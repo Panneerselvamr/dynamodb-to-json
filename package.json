@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-to-json",
+  "version": "1.0.0",
+  "description": "to generate json from dynamoDB datatype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panneerselvamr/dynamodb-to-json.git"
+  },
+  "author": "panneer selvam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panneerselvamr/dynamodb-to-json/issues"
+  },
+  "homepage": "https://github.com/Panneerselvamr/dynamodb-to-json#readme"
+}
