@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-to-json",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "to generate json from dynamoDB datatype",
   "main": "index.js",
   "scripts": {
